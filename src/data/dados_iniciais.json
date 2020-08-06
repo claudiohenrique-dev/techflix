@@ -1,0 +1,198 @@
+{
+  "categorias": [
+    {
+      "titulo": "Cursos base",
+      "cor": "#04abd9",
+      "link_extra": {
+        "text": "Comece sua carreira profissional por aqui!"
+      },
+      "videos": [
+        {
+          "titulo": "Por que todos deveriam aprender a programar?",
+          "url": "https://youtu.be/mHW1Hsqlp6A"
+        },
+        {
+          "titulo": "Algoritmos e Lógica de Programação",
+          "url": "https://youtu.be/8mei6uVttho?list=PLHz_AreHm4dmSj0MHol_aoNYCSGFqvfXV"
+        },
+        {
+          "titulo": "HTML + CSS + JavaScript",
+          "url": "https://youtu.be/epDCjksKMok?list=PLHz_AreHm4dlAnJ_jJtV29RFxnPHDuk9o"
+        },
+        {
+          "titulo": "Git e GitHub",
+          "url": "https://youtu.be/xEKo29OWILE?list=PLHz_AreHm4dm7ZULPAmadvNhH6vk9oNZA"
+        },
+        {
+          "titulo": "Python",
+          "url": "https://youtu.be/S9uPNppGsGo?list=PLHz_AreHm4dlKP6QQCekuIPky1CiwmdI6"
+        },
+        {
+          "titulo": "JavaScript",
+          "url": "https://youtu.be/BXqUH86F-kA?list=PLHz_AreHm4dlsK3Nr9GVvXCbpQyHQl1o1"
+        },
+        {
+          "titulo": "PHP",
+          "url": "https://youtu.be/F7KzJ7e6EAc?list=PLHz_AreHm4dm4beCCCmW4xwpmLf6EHY9k"
+        },
+        {
+          "titulo": "Banco de Dados MySQL",
+          "url": "https://youtu.be/Ofktsne-utM?list=PLHz_AreHm4dkBs-795Dsgvau_ekxg8g1r"
+        }
+      ]
+    },
+    {
+      "titulo": "Softwares",
+      "cor": "#fc6f03",
+      "link_extra": {
+        "text": "Aprenda a usar ferramentas de forma produtiva"
+      },
+      "videos": [
+        {
+          "titulo": "Excel 2016",
+          "url": "https://youtu.be/ZVURQLXZtIc?list=PLHz_AreHm4dkRZoc0-i4sQeot_62qKi4a"
+        },
+        {
+          "titulo": "Word 2016",
+          "url": "https://youtu.be/59lDXVkqlqQ?list=PLHz_AreHm4dkxM_0dinX7l_WUxpG-VrC-"
+        },
+        {
+          "titulo": "Photoshop CC 2014",
+          "url": "https://youtu.be/apyGxxabcZ4?list=PLHz_AreHm4dnj6cWEvVfRGNh2WaI0fDut"
+        },
+        {
+          "titulo": "WordPress",
+          "url": "https://youtu.be/JPR4OK4c35Q?list=PLHz_AreHm4dmDP_RWdiKekjTEmCuq_MW2"
+        },
+        {
+          "titulo": "Linux",
+          "url": "https://youtu.be/6nN2EglOqCM?list=PLHz_AreHm4dlIXleu20uwPWFOSswqLYbV"
+        }
+      ]
+    },
+    {
+      "titulo": "Pequenas ideias, grandes projetos",
+      "cor": "#cf03fc",
+      "link_extra": {
+        "text": "O que eu poderei fazer futuramente?"
+      },
+      "videos": [
+        {
+          "titulo": "Programei 4 robôs que criam vídeos para mim no YouTube",
+          "url": "https://youtu.be/kjhu1LEmRpY"
+        },
+        {
+          "titulo": "Inteligência Artifical criando arte",
+          "url": "https://youtu.be/ruw_rcJaSGs"
+        },
+        {
+          "titulo": "Programamos um game com JavaScript puro em 28 minutos",
+          "url": "https://youtu.be/M258B1b_pMs"
+        },
+        {
+          "titulo": "APPs da Galera | Desafio Flutter",
+          "url": "https://youtu.be/0eYAkHkQXsk"
+        },
+        {
+          "titulo": "10 projetos rápidos para treinar programação",
+          "url": "https://youtu.be/fYR9L2ZmodM"
+        },
+        {
+          "titulo": "3 projetos iniciantes que geram até $3000 por mês",
+          "url": "https://youtu.be/n3tMEOw9KGY"
+        }
+      ]
+    },
+    {
+      "titulo": "Assuntos interessantes",
+      "cor": "#6b5be2",
+      "link_extra": {
+        "text": "Curiosidades envolvendo tecnologia"
+      },
+      "videos": [
+        {
+          "titulo": "Complexidade de Algoritmos no Minecraft!",
+          "url": "https://youtu.be/5LQNW3XKJUA"
+        },
+        {
+          "titulo": "Racismo em Algoritmos",
+          "url": "https://www.youtube.com/watch?v=vY84WKY9rJI"
+        },
+        {
+          "titulo": "As tecnologias por trás do League of Legends",
+          "url": "https://youtu.be/AJHtok_qIvE"
+        },
+        {
+          "titulo": "Como criar um CPF",
+          "url": "https://youtu.be/ErzeMkoxZpY"
+        },
+        {
+          "titulo": "As tecnologias por trás de Minecraft",
+          "url": "https://youtu.be/gHxE22T2gzM"
+        }
+      ]
+    },
+    {
+      "titulo": "Músicas",
+      "cor": "#00b300",
+      "link_extra": {
+        "text": "Para se concentrar na hora do código!"
+      },
+      "videos": [
+        {
+          "titulo": "Mr. Robot Soundtrack",
+          "url": "https://youtu.be/pFdfhg2IP_0"
+        },
+        {
+          "titulo": "Poké & Chill",
+          "url": "https://youtu.be/2DVpys50LVE"
+        },
+        {
+          "titulo": "ｎｉｎｔｅｎｄｏ　ａｎｄ　ｌｏｆｉ",
+          "url": "https://youtu.be/AvhplYM46Fc"
+        },
+        {
+          "titulo": "lofi hip hop - brazil songs playlist",
+          "url": "https://youtu.be/ZhstyJSNKME"
+        },
+        {
+          "titulo": "O Jogo da Imitação Soundtrack",
+          "url": "https://youtu.be/VwFzzSN_J6M"
+        },
+        {
+          "titulo": "A Rede Social Soundtrack",
+          "url": "https://youtu.be/yydZbVoCbn0"
+        }
+      ]
+    },
+    {
+      "titulo": "Filmes",
+      "cor": "red",
+      "link_extra": {
+        "text": "Pra te inspirar a ser cada vez melhor"
+      },
+      "videos": [
+        {
+          "titulo": "Invasores - Nenhum Sistema Está à Salvo",
+          "url": "https://youtu.be/YQ-_BWFsL1o"
+        },
+        {
+          "titulo": "O Jogo da Imitação",
+          "url": "https://youtu.be/b8d_oX9Ewok"
+        },
+        {
+          "titulo": "A Rede Social",
+          "url": "https://youtu.be/YNrbyRA5d14"
+        },
+        {
+          "titulo": "Jobs",
+          "url": "https://youtu.be/Dgk6ExjjXOs"
+        },
+        {
+          "titulo": "O Preço do Amanhã",
+          "url": "https://youtu.be/euQrskSt1eY"
+        }
+      ]
+    }
+  ]
+}
