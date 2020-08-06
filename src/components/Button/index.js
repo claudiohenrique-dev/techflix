@@ -10,7 +10,7 @@ const Button = styled.button`
   padding: 16px 24px;
   text-decoration: none;
   transition: opacity 0.3s;
-  
+
   &:hover,
   &:focus {
     opacity: 0.5;

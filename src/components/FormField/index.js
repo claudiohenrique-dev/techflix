@@ -1,5 +1,5 @@
-import PropTypes from "prop-types";
-import React from "react";
+import PropTypes from 'prop-types';
+import React from 'react';
 import styled from 'styled-components';
 
 const Input = styled.input`
@@ -30,7 +30,7 @@ const Input = styled.input`
 const FormFieldWrapper = styled.div``;
 const Label = styled.label``;
 
-function FormField({ as = "input", label, name, onChange, type, value }) {
+function FormField({ as = 'input', label, name, onChange, type, value }) {
   const fieldId = `id_${name}`;
 
   return (
@@ -50,8 +50,8 @@ function FormField({ as = "input", label, name, onChange, type, value }) {
   );
 }
 FormField.defaultProps = {
-  type: "text",
-  value: "",
+  type: 'text',
+  value: '',
   onChange: () => {},
 };
 

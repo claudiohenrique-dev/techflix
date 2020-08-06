@@ -1,4 +1,4 @@
-import styled from "styled-components";
+import styled from 'styled-components';
 
 export const BannerMainContainer = styled.section`
   background-image: ${({ backgroundImage }) => `url(${backgroundImage})`};
