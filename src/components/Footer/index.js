@@ -14,16 +14,16 @@ function Footer() {
         <a href="https://www.alura.com.br/">Imersão React da Alura</a>
       </p>
 
-      <a href="https://github.com/01ch01">
+      <a href="https://github.com/claudiohenrique-dev">
         <FooterImg src={github} alt="Logo GitHub" />
       </a>
       <a href="mailto:00claudio.henrique@gmail.com">
         <FooterImg src={gmail} alt="Logo Gmail" />
       </a>
-      <a href="https://www.linkedin.com/in/cl%C3%A1udio-henrique-088ab2156/">
+      <a href="https://www.linkedin.com/in/cloud-henrique">
         <FooterImg src={linkedin} alt="Logo LinkedIn" />
       </a>
-      <a href="https://t.me/claudio_henrique">
+      <a href="https://t.me/cloud_henrique">
         <FooterImg src={telegram} alt="Logo Telegram" />
       </a>
     </FooterBase>
